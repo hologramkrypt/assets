@@ -1,6 +1,6 @@
-# Assets
-
----
+<h1 align=center>
+   Assets
+</h1>
 
 here is where you can find information on how to install and modify your system icons, cursors, themes, and wallpapers.
 
