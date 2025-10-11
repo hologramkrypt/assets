@@ -1,6 +1,6 @@
 # Assets
 
-* * *
+---
 
 here is where you can find information on how to install and modify your system icons, cursors, themes, and wallpapers.
 
@@ -23,7 +23,6 @@ if you want, you can download the full pack of icons using snap...
 
 ```
 sudo snap install tela-icons
-
 ```
 
 ## cursors
