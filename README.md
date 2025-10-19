@@ -60,3 +60,9 @@ i do recommend following the structure of having wallpapers in a hidden folder w
 | [nwg-look](https://github.com/nwg-piotr/nwg-look)    |  GTK3 Theming tool   |
 
 These are the utilities I use in order to apply my icons, themes, etc.
+
+---
+
+<p align="center">
+    Built in the graveyard // <strong>hologramkrypt</strong> \\ |  assets
+</p>
