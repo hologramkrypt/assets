@@ -49,7 +49,7 @@ I use Kripton-v40.
 git clone https://github.com/hologramkrypt/assets.git
 ```
 
-i do recommend following the structure of having wallpapers in a hidden folder within the home directory. it should be located in ***~/.wallpapers***. this keeps manipulating the folders and adding/removing your own wallpapers a simple. also i hate having my wallpapers in my ***~/Pictures*** directory.
+i do recommend following the structure of having wallpapers in a hidden folder within the home directory. it should be located in ***~/.wallpapers***. this keeps manipulating the folders and adding/removing your own wallpapers simple. also i hate having my wallpapers in my ***~/Pictures*** directory.
 
 ## applications
 
