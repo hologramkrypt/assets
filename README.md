@@ -19,7 +19,7 @@ here is where you can find information on how to install and modify your system 
 
 I recommend the [Tela icon theme](https://github.com/vinceliuice/Tela-icon-theme), however this is purely up to your taste and style. I use ***Tela-black***, as it fits well with my theme choices.
 
-if you want, you can download the full pack of icons using snap...
+if you want, you can download the full pack of icons (including all color variations) using snap...
 
 ```
 sudo snap install tela-icons
